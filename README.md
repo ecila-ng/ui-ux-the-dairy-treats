@@ -1,7 +1,7 @@
 # The Dairy Treats 🍨
 
 #### 🍰 Final project for GUI class, a website for an imaginary sweet shop!
-Developed using Adobe Dreamweaver 2020 on Windows 10
+#### Developed using Adobe Dreamweaver 2020 on Windows 10
 
 ## Highlights:
 

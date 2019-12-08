@@ -12,3 +12,6 @@ Developed using Adobe Dreamweaver 2020 on Windows 10
 ##### Products page:
 ![Homepage](https://github.com/nhbaotran/gui-the-dairy-treats/blob/master/4.png)
 ![Homepage](https://github.com/nhbaotran/gui-the-dairy-treats/blob/master/5.png)
+
+##### Contact us page:
+![Homepage](https://github.com/nhbaotran/gui-the-dairy-treats/blob/master/6.png)
